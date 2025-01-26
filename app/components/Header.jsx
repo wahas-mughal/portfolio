@@ -39,7 +39,7 @@ const Header = () => {
         I'm a mobile app developer from Karachi, Pakistan with 4 years of
         experience in developing cross-platform applications with React Native.
       </motion.p>
-      <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
+      {/* <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a
           href="#contact"
           className="px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2
@@ -71,7 +71,7 @@ const Header = () => {
             className="rounded-full w-4"
           />
         </motion.a>
-      </div>
+      </div> */}
     </div>
   );
 };

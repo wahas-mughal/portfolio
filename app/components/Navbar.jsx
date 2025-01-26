@@ -72,27 +72,28 @@ const Navbar = ({ isDarkMode, setIsDarkMode }) => {
               My Work
             </a>
           </li>
-          <li>
-            <a className="font-Ovo" href="#contact">
-              Contact me
-            </a>
-          </li>
+            {/* <li>
+              <a className="font-Ovo" href="#contact">
+                Contact me
+              </a>
+            </li> */}
         </ul>
 
         <div className="flex items-center gap-4">
-          <button onClick={() => setIsDarkMode((prev) => !prev)}>
+          {/* <button onClick={() => setIsDarkMode((prev) => !prev)}>
             <Image
               src={isDarkMode ? assets.sun_icon : assets.moon_icon}
               alt=""
               className="w-6"
             />
-          </button>
+          </button> */}
           <a
             className="hidden lg:flex items-center gap-3 px-10 py-2.5 border border-gray-500 
             rounded-full ml-4 font-Ovo dark:border-white/50"
-            href=""
+            href="https://www.upwork.com/freelancers/~01f36f766f6b3d8f68"
+            target="_blank"
           >
-            Contact{" "}
+            Upwork
             <Image
               src={isDarkMode ? assets.arrow_icon_dark : assets.arrow_icon}
               alt=""

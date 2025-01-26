@@ -35,8 +35,7 @@ const Services = ({ isDarkMode }) => {
        initial={{ opacity: 0 }}
        whileInView={{ opacity: 1 }}
        transition={{ duration: 0.7, delay: 0.5 }}>
-        lorem epsom lorem epsom lorem epsom lorem epsom lorem epsom lorem epsom
-        lorem epsom lorem epsom lorem epsom lorem epsom lorem epsom
+        I offer wide range of services across cross-platform mobile app development from frontend to backend development and publishing. I also offer 15 minutes consultation starting from $10.
       </motion.p>
 
       <motion.div className="grid grid-cols-auto gap-6 my-10"
@@ -57,10 +56,10 @@ const Services = ({ isDarkMode }) => {
             <p className="text-sm text-gray-600 leading-5 dark:text-white/80">
               {description}
             </p>
-            <a href={link} className="flex items-center gap-2 text-sm mt-5">
+            {/* <a href={link} className="flex items-center gap-2 text-sm mt-5">
               Read More{" "}
               <Image src={assets.right_arrow} alt="" className="w-4" />
-            </a>
+            </a> */}
           </motion.div>
         ))}
       </motion.div>
