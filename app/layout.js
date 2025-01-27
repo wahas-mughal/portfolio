@@ -12,7 +12,7 @@ const ovo = Outfit({
 });
 
 export const metadata = {
-  title: "Portfolio - Wahas Ali Mughal",
+  title: "Wahas Ali Mughal - Portfolio",
   description: "",
 };
 
