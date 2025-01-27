@@ -115,19 +115,19 @@ export const workData = [
   {
     title: "Lilli Health",
     description: "Women Health Education",
-    bgImage: "/Lillihealth.png",
+    bgImage: "/lillihealth.png",
     link: "https://lillihealth.com/",
   },
   {
     title: "ITM Blood",
     description: "Blood Donation",
-    bgImage: "/Degree37.jpeg",
+    bgImage: "/degree37.jpeg",
     apple_link: "https://apps.apple.com/us/app/itm-blood/id6443824422",
   },
   {
     title: "Dealer Labels",
     description: "VIN Print & Scanner ",
-    bgImage: "/Dealerlabels.png",
+    bgImage: "/dealerlabels.png",
     android_link:
       "https://play.google.com/store/apps/details?id=com.autoscan.appv9",
     apple_link: "https://apps.apple.com/us/app/dealer-labels/id6446840673",
@@ -135,7 +135,7 @@ export const workData = [
   {
     title: "Apex Scan",
     description: "VIN Scanner",
-    bgImage: "/Apexscan.jpg",
+    bgImage: "/apexscan.jpg",
     android_link:
       "https://play.google.com/store/apps/details?id=com.autoscan.apexscan",
     apple_link:
@@ -144,13 +144,13 @@ export const workData = [
   {
     title: "17 Degrees North",
     description: "Membership Club",
-    bgImage: "/17degreesnorth.png",
+    bgImage: "/degreesnorth.png",
     apple_link: "https://apps.apple.com/us/app/17-degrees-north/id1661954076",
   },
   {
     title: "Roadflix",
     description: "Goods Tranportation",
-    bgImage: "/Roadflix.png",
+    bgImage: "/roadflix.png",
     android_link:
       "https://play.google.com/store/apps/details?id=com.zoneup.roadflix",
     apple_link: "https://apps.apple.com/us/app/roadflix/id6471580962",
