@@ -35,7 +35,7 @@ import send_icon from "./send-icon.png";
 import right_arrow_bold from "./right-arrow-bold.png";
 import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
 import xcode from "./xcode.png";
-import androidstudio from "./androidstudio.png";
+import androidstudio from "./android-studio.png";
 import development from "./development.png";
 import revamp from "./revamp.png";
 import bugfixes from "./bugfixes.png";
