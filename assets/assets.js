@@ -98,7 +98,7 @@ export const workData = [
   {
     title: "Fairytrail",
     description: "Travel Buddy Finder",
-    bgImage: "../fairy.png",
+    bgImage: "../assets/public/fairy.png",
     android_link:
       "https://play.google.com/store/apps/details?id=app.fairytrail.release&hl=en",
     apple_link:
@@ -107,7 +107,7 @@ export const workData = [
   {
     title: "ClickToys",
     description: "E-commerce Store",
-    bgImage: "../clicktoy.png",
+    bgImage: "../assets/public/clicktoy.png",
     android_link:
       "https://play.google.com/store/apps/details?id=com.aym.clicktoys&hl=en",
     apple_link: "https://apps.apple.com/us/app/clicktoys/id1643857459",
@@ -115,19 +115,19 @@ export const workData = [
   {
     title: "Lilli Health",
     description: "Women Health Education",
-    bgImage: "../lilli.png",
+    bgImage: "./lilli.png",
     link: "https://lillihealth.com/",
   },
   {
     title: "ITM Blood",
     description: "Blood Donation",
-    bgImage: "../itm.jpeg",
+    bgImage: "./itm.jpeg",
     apple_link: "https://apps.apple.com/us/app/itm-blood/id6443824422",
   },
   {
     title: "Dealer Labels",
     description: "VIN Print & Scanner ",
-    bgImage: "../dealerlabel.png",
+    bgImage: "./dealerlabel.png",
     android_link:
       "https://play.google.com/store/apps/details?id=com.autoscan.appv9",
     apple_link: "https://apps.apple.com/us/app/dealer-labels/id6446840673",
@@ -135,7 +135,7 @@ export const workData = [
   {
     title: "Apex Scan",
     description: "VIN Scanner",
-    bgImage: "../apex.jpg",
+    bgImage: "./apex.jpg",
     android_link:
       "https://play.google.com/store/apps/details?id=com.autoscan.apexscan",
     apple_link:
@@ -144,13 +144,13 @@ export const workData = [
   {
     title: "17 Degrees North",
     description: "Membership Club",
-    bgImage: "../north.png",
+    bgImage: "./north.png",
     apple_link: "https://apps.apple.com/us/app/17-degrees-north/id1661954076",
   },
   {
     title: "Roadflix",
     description: "Goods Tranportation",
-    bgImage: "../road-flix.png",
+    bgImage: "./road-flix.png",
     android_link:
       "https://play.google.com/store/apps/details?id=com.zoneup.roadflix",
     apple_link: "https://apps.apple.com/us/app/roadflix/id6471580962",
