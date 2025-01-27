@@ -98,7 +98,7 @@ export const workData = [
   {
     title: "Fairytrail",
     description: "Travel Buddy Finder",
-    bgImage: "../assets/public/fairy.png",
+    bgImage: "./fairy.png",
     android_link:
       "https://play.google.com/store/apps/details?id=app.fairytrail.release&hl=en",
     apple_link:
@@ -107,7 +107,7 @@ export const workData = [
   {
     title: "ClickToys",
     description: "E-commerce Store",
-    bgImage: "../assets/public/clicktoy.png",
+    bgImage: "./clicktoy.png",
     android_link:
       "https://play.google.com/store/apps/details?id=com.aym.clicktoys&hl=en",
     apple_link: "https://apps.apple.com/us/app/clicktoys/id1643857459",
