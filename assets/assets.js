@@ -190,16 +190,16 @@ export const serviceData = [
     icon: assets.publish,
     title: "App Stores Publishing",
     description:
-      "I help and guide clients to have their app published and approved on Google Play Store and Apple App Store.",
+      "I help in publishing apps and get them approved on Google Play Store and Apple App Store.",
     link: "",
   },
-  {
-    icon: assets.consult,
-    title: "Consultation",
-    description:
-      "I provide 15 minutes to 1 hour consultation to clients and guide them from where to start and how to turn their ideas into life",
-    link: "",
-  },
+  // {
+  //   icon: assets.consult,
+  //   title: "Consultation",
+  //   description:
+  //     "I provide 15 minutes to 1 hour consultation to clients and guide them from where to start and how to turn their ideas into life",
+  //   link: "",
+  // },
 ];
 
 export const infoList = [

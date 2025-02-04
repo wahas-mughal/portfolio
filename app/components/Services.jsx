@@ -35,7 +35,8 @@ const Services = ({ isDarkMode }) => {
        initial={{ opacity: 0 }}
        whileInView={{ opacity: 1 }}
        transition={{ duration: 0.7, delay: 0.5 }}>
-        I offer wide range of services across cross-platform mobile app development from frontend to backend development and publishing. I also offer 15 minutes consultation starting from $10.
+        {/* I also offer 15 minutes consultation starting from $10. */}
+        I offer wide range of services across cross-platform mobile app development from frontend to backend development and publishing.
       </motion.p>
 
       <motion.div className="grid grid-cols-auto gap-6 my-10"
