@@ -164,26 +164,26 @@ export const serviceData = [
     icon: assets.development,
     title: "Frontend & Backend Development",
     description:
-      "Responsive UI across both platforms with full swing backend development",
+      "Responsive UI across both platforms with full swing backend development.",
     link: "",
   },
   {
     icon: assets.revamp,
     title: "Revamping & Features Addition",
-    description: "Revamp existing apps as per new design and add new features",
+    description: "Revamp existing apps as per new design and add new features.",
     link: "",
   },
   {
     icon: assets.bugfixes,
     title: "Debugging & Issues Resolution",
     description:
-      "Debug the issues/bugs and provide complete resolution with best industry practices",
+      "Debug the issues/bugs and provide complete resolution with best industry practices.",
     link: "",
   },
   {
     icon: assets.apis,
     title: "APIs Integration",
-    description: "Integrates the APIs provided with proper exception handling",
+    description: "Integrates the APIs provided with proper exception handling.",
     link: "",
   },
   {
@@ -193,13 +193,13 @@ export const serviceData = [
       "I help in publishing apps and get them approved on Google Play Store and Apple App Store.",
     link: "",
   },
-  // {
-  //   icon: assets.consult,
-  //   title: "Consultation",
-  //   description:
-  //     "I provide 15 minutes to 1 hour consultation to clients and guide them from where to start and how to turn their ideas into life",
-  //   link: "",
-  // },
+  {
+    icon: assets.consult,
+    title: "Consultation",
+    description:
+      "I provide 15 minutes to 1 hour consultation to clients and guide them from where to start and how to turn their ideas into life.",
+    link: "",
+  },
 ];
 
 export const infoList = [

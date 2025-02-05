@@ -87,7 +87,7 @@ const Navbar = ({ isDarkMode, setIsDarkMode }) => {
               className="w-6"
             />
           </button>
-          {/* <a
+          <a
             className="hidden lg:flex items-center gap-3 px-10 py-2.5 border border-gray-500 
             rounded-full ml-4 font-Ovo dark:border-white/50"
             href="https://www.upwork.com/freelancers/~01f36f766f6b3d8f68"
@@ -99,7 +99,7 @@ const Navbar = ({ isDarkMode, setIsDarkMode }) => {
               alt=""
               className="w-3"
             />
-          </a> */}
+          </a>
           <button className="block md:hidden ml-3" onClick={openMenuHandler}>
             <Image
               src={isDarkMode ? assets.menu_white : assets.menu_black}
