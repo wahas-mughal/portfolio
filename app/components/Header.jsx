@@ -36,7 +36,7 @@ const Header = () => {
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.5 }}
       >
-        I'm a mobile app developer from Karachi, Pakistan with 4 years of
+        I'm a mobile app developer from Karachi, Pakistan with more than 5 years of
         experience in developing cross-platform applications with React Native.
       </motion.p>
       {/* <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
